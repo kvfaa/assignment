@@ -7,7 +7,7 @@ public class TestSiswa {
         encapSiswa siswa = new encapSiswa();
         siswa.setName("Kalip");
         siswa.setAge(16);
-        siswa.setAddress("Malang");
+        siswa.setAddress("Malang, Sawojajar");
 
         System.out.println("nama: " + siswa.getName()
                 + " alamat " + siswa.getAddress() + " berumur " + siswa.getAge()
